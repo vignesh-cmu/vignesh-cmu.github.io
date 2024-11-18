@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>15618 Final Project</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 15618 Final Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Nov 2024 15:50:32 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 18:07:19 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 17 Nov 2024 15:50:32 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>This is the first test post on this static website This webpage uses the Dead Simple Hugo Theme </description>
+      <title>15618 Final Project Proposal - Ziqi Liu and Vignesh S Rao</title>
+      <link>http://localhost:1313/posts/15618-final-project-proposal/</link>
+      <pubDate>Sun, 17 Nov 2024 18:07:19 -0500</pubDate>
+      <guid>http://localhost:1313/posts/15618-final-project-proposal/</guid>
+      <description>Extend Cilk Scheduler with Suspend-Resume Concurrency Proposal Summary We are aiming to extend a research Cilk runtime library with concurrency support. Currently, Cilk only supports parallelism, as every worker have sole ownership on the task assigned through work-stealing during its lifetime, i.e. a running job will always be handled by 1 worker. We aim to extend Cilk semantics by giving tasks the ability to suspend, thereby unbinding from its current worker so the worker can execute other tasks; on the other hand, the suspended task should be able to resume execution once picked up by other workers.</description>
     </item>
   </channel>
 </rss>

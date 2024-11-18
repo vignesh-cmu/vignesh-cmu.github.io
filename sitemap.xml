@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2024-11-17T15:50:32-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-17T15:50:32-05:00</lastmod>
+    <lastmod>2024-11-17T19:47:03-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-17T15:50:32-05:00</lastmod>
+    <lastmod>2024-11-17T19:47:03-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/15618-final-project-proposal/</loc>
+    <lastmod>2024-11-17T18:07:19-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
